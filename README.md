@@ -1,5 +1,5 @@
 # image_denoising
-image denoising with neural networks
+image denoising with u-net
 
 # setup
 ```bash
